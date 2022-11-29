@@ -1,0 +1,5 @@
+step 1: create-react-app portflio (on ubunto)
+        npx create-react-app portflio (on windows)
+
+step 2:
+        
